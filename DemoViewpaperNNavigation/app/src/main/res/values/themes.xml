@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Coban" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Nếu bạn cần có thể tùy chỉnh thêm -->
+    </style>
+
+    <style name="Theme.Coban" parent="Base.Theme.Coban" />
+</resources>
